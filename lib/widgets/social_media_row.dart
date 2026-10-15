@@ -38,7 +38,7 @@ class SocialMediaRow extends StatelessWidget {
               },
             ),
 
-            const SizedBox(width: 16), // Jarak antar ikon
+            const SizedBox(width: 16),
 
             IconButton(
               icon: const Icon(Icons.work),
