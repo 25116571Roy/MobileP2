@@ -36,6 +36,8 @@ class ProfileInfo extends StatelessWidget {
         InfoRow(icon: Icons.school, label: programStudi),
         InfoRow(icon: Icons.email, label: email),
         InfoRow(icon: Icons.location_on, label: lokasi),
+       
+        
       ],
     );
   }
